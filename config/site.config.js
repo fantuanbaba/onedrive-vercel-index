@@ -52,8 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'OneDrive',
+      name: 'OneDrive(5G)',
       link: 'https://pan.airtable.top',
+    },
+    {
+      name: 'Blog',
+      link: 'https://blog.airtable.top',
     },
   ],
 
