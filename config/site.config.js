@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'OneDrive(5G)',
+      name: 'OneDrive(5T盘)',
       link: 'https://pan.airtable.top',
     },
     {
